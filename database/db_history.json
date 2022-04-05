@@ -1,0 +1,25 @@
+{
+    "documents": [
+        {
+            "id": 1,
+            "data": {
+                "userName": "rukmal",
+                "balance": "$4000"
+            }
+        },
+        {
+            "id": 1,
+            "data": {
+                "userName": "rukmals",
+                "balance": "$6000"
+            }
+        },
+        {
+            "id": 1,
+            "data": {
+                "userName": "senavirathne",
+                "balance": "$7000"
+            }
+        }
+    ]
+}

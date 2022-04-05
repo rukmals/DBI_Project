@@ -1,0 +1,28 @@
+{
+    "documents": [
+        {
+            "transaction_id": 1,
+            "transaction": "INSERT",
+            "time_stamp": "2022-04-05 16:23:22.760289",
+            "user": "rukmals"
+        },
+        {
+            "transaction_id": 1,
+            "transaction": "UPDATE",
+            "time_stamp": "2022-04-05 16:23:41.892000",
+            "user": "rukmals"
+        },
+        {
+            "transaction_id": 1,
+            "transaction": "UPDATE",
+            "time_stamp": "2022-04-05 16:26:22.691033",
+            "user": "rukmals"
+        },
+        {
+            "transaction_id": 1,
+            "transaction": "UPDATE",
+            "time_stamp": "2022-04-05 16:38:05.820367",
+            "user": "rukmals"
+        }
+    ]
+}
